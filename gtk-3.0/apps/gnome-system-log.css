@@ -1,0 +1,5 @@
+/* LP: #1045602 */
+.dim-label,
+LogviewWindow .view.dim-label {
+  color: @info_fg_color;
+}
