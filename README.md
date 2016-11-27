@@ -1,8 +1,6 @@
 ## El Capitan Theme
-<!--
 ![el-capitan-theme](.github/screen.png)
-> Font used in the screenshot is [San Francisco](https://github.com/supermarin/YosemiteSanFranciscoFont) and the icon pack is [`el-capitan-icons`](https://github.com/yboyer/el-capitan-icons).
--->
+> Font used in the screenshot is [San Francisco](https://github.com/supermarin/YosemiteSanFranciscoFont).
 
 
 ### Installation
