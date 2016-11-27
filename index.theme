@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Yosembiance-Atomic-Blue
-Comment=Yosembiance theme
+Name=el-capitan-theme
+Comment=El Capitan theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Yosembiance-Atomic-Blue
-MetacityTheme=Yosembiance-Atomic-Blue
+GtkTheme=el-capitan-theme
+MetacityTheme=el-capitan-theme
 IconTheme=ubuntu-mono-dark
 CursorTheme=DMZ-White
 ButtonLayout=close,minimize,maximize:

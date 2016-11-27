@@ -3,7 +3,9 @@
 @define-color fg_color #4c4c4c;
 @define-color base_color #ffffff;
 @define-color text_color #3C3C3C;
-@define-color selected_bg_color #668eac;
+@define-color selected_bg_color #3e88f3;
+@define-color selected_bg_color_ske #2e7ceb;
+@define-color selected_bg_color_dark #0f6cd4;
 @define-color selected_fg_color #ffffff;
 @define-color tooltip_bg_color #000000;
 @define-color tooltip_fg_color #ffffff;
@@ -32,6 +34,7 @@
 @define-color notebook_button_bg_color shade (@bg_color, 1.02);
 @define-color button_insensitive_bg_color mix (@button_bg_color, @bg_color, 0.6);
 @define-color dark_bg_color #222222;
+@define-color dark_bg_color_lite #323232;
 @define-color dark_fg_color #dfdbd2;
 
 @define-color backdrop_fg_color mix (@bg_color, @fg_color, 0.8);
@@ -53,7 +56,6 @@
 
 @define-color scrollbar_track_color mix(@base_color, black, 0.1); /* #e6e6e6 */
 
-/* yosembiance colors */
 @define-color dark_bg_secondary shade(@dark_bg_color,1.1);
 @define-color dark_bg_selected shade(@dark_bg_color,1.5);
 @define-color dark_button_border alpha(white, 0.15);

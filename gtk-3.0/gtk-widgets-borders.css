@@ -1,5 +1,4 @@
 /* Borders */
-.menubar .menuitem:hover,
 .menubar.menuitem:hover {
   border: 1px solid #2e2e2c;
   border-bottom-width: 0;
