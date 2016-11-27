@@ -8,7 +8,7 @@
 ### Installation
 Clone the repo into your `~/.themes` directory and enable it with `gnome-tweak-tools` or `unity-tweak-tool`.
 ```bash
-git clone https://github.com/yboyer/el-capitan-icons '~/.themes/El Capitan - Theme'
+git clone https://github.com/yboyer/el-capitan-theme '~/.themes/El Capitan - Theme'
 ```
 
 
